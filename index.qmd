@@ -1,0 +1,27 @@
+---
+title: "Victor Arowolo"
+image: images/victor-01.jpg
+about: 
+  template: jolla
+  image-width: 14em
+  image-shape: round
+  links: 
+    - icon: whatsapp
+      text: Whatsapp
+      href: https://wa.me/+2349124004325
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/victor-arowolo-472010219
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Thrive_001?t=pBpBmsHHMreN2Bj-ulKo7w&s=09
+    - icon: github
+      text: Github
+      href: https://github.com/victorThrive
+    - icon: envelope
+      text: Contact me
+      href: mailto:menghani.iamvictorthrive@gmail.com
+---
+
+
+I am a highly-driven individual with a strong work ethic and a commitment to personal development, holding a Bachelor's degree in Statistics. My professional journey has encompassed roles in asset management, academia, and research, where I've forged sustainable relationships with colleagues and clients alike. With a background rooted in statistical analysis, I bring a keen understanding of data-driven methodologies to my work. <br> My interests span across machine learning, software development, and a sincere desire to add tangible value to the broader community. 

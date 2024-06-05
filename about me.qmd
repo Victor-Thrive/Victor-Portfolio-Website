@@ -1,0 +1,9 @@
+---
+title: "About me"
+image: images/victor-01.jpg
+about: 
+  template: broadside
+  image-width: 15em
+  image-shape: round
+---
+

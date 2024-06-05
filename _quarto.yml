@@ -1,0 +1,59 @@
+project: 
+  type: website
+website: 
+  title: "Victor Arowolo"
+  favicon: "images/thrive1.png"
+
+  page-footer:
+   center: |
+    <span class="container"><strong>Application built by [Victor Arowolo](mailto:iamvictorthrive@gmail.com){target="_blank"}</strong></span>
+   left: |
+    <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+   right: |
+    <span class="container"><strong>[Github Repo](https://github.com/){target="_blank"}</strong></span>
+   background: "#004E4F"
+
+  navbar: 
+    background: "#004E4F"
+    left:
+      - text: "Home"
+        file:  index.qmd
+      - text: "Projects"
+        file:  about me.qmd
+      - text: "About me"
+        file:  index.qmd
+      - text: "Blog"
+        file:  about me.qmd
+    right:
+      - icon: whatsapp
+        href: https://wa.me/+2349124004325
+        aria-label: Quarto Github
+      - icon: twitter
+        href: https://twitter.com/Thrive_001?t=pBpBmsHHMreN2Bj-ulKo7w&s=09
+        aria-label: Quarto Github
+      - icon: github
+        href: https://github.com/victorThrive
+        aria-label: Quarto Github
+      - icon: linkedin
+        href: https://www.linkedin.com/in/victor-arowolo-472010219
+        aria-label: Quarto Github
+
+  search: 
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
